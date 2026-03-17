@@ -50,8 +50,3 @@ Familiar with tools like Wireshark and Nmap, with basic exposure to SIEM concept
 
 ## 📌 Goal
 To start my career as a **SOC Analyst** and grow into a **Digital Forensics Specialist**
-
----
-
-
-
