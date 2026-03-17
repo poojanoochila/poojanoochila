@@ -1,52 +1,49 @@
-# Hi, I'm Pooja Noochila 👋
+# Pooja Noochila 
 
-🎓 MCA Student | Cybersecurity Enthusiast  
-🔐 Interested in Digital Forensics & Threat Analysis  
+🎓 MCA Final Year Student  
+🔐 Cybersecurity Enthusiast | Aspiring SOC Analyst  
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about Cybersecurity and Ethical Hacking  
-- 🧠 Solving Capture The Flag (CTF) challenges  
-- 🐧 Comfortable with Linux (WSL / Ubuntu)  
-- 🔍 Interested in Digital Forensics and Incident Investigation  
+Cybersecurity-focused student with strong foundations in network security and SOC fundamentals. Hands-on experience analyzing network traffic with a solid understanding of TCP/IP, DNS, and HTTP/HTTPS.
+
+Familiar with tools like Wireshark and Nmap, with basic exposure to SIEM concepts for log analysis. Comfortable working in Linux environments and analyzing logs to identify suspicious patterns.
 
 ---
 
 ## 🛠️ Skills & Tools
-- Networking Basics (TCP/IP, Ports, Protocols)  
-- Linux Command Line  
-- Wireshark (Packet Analysis)  
-- Nmap (Network Scanning)  
-- Burp Suite (Basic Web Testing)  
-- Binwalk (File Analysis)  
-- Python (Basic Scripting)  
+- Network Traffic Analysis (TCP/IP, DNS)
+- Log Analysis (Basic)
+- SIEM (Fundamentals)
+- Linux
+- Wireshark
+- Nmap
 
 ---
 
-## 🧪 Cybersecurity Practice
-- Solving CTF challenges (Forensics, Steganography, Encoding)  
-- File analysis using tools like binwalk  
-- Working with encoded data (Base64, Hex)  
-- Network traffic analysis basics  
+## 🧪 Practice & Learning
+- Capture The Flag (CTF) challenges  
+  - Forensics  
+  - Traffic Analysis  
+  - Encoding & Decoding  
+
+- Active on cybersecurity platforms:  
+  - picoCTF (CTF challenges)  
+  - TryHackMe (Hands-on labs)  
+  - Hack The Box (Beginner labs)  
 
 ---
 
-## 📂 Projects
-- 🔹 Suspicious Login Detection System (ML-based)  
-- 🔹 Flight Reservation System with Dynamic Pricing  
-
----
-
-## 📈 Currently Learning
+## 🎯 Current Focus
 - SOC Operations  
-- Log Analysis  
-- Digital Forensics Tools  
+- Threat Monitoring  
+- Digital Forensics  
 
 ---
 
-## 🎯 Career Goal
-To become a **Cybersecurity Analyst → Digital Forensics Specialist**
+## 📌 Goal
+To start my career as a **SOC Analyst** and grow into a **Digital Forensics Specialist**
 
 ---
 
