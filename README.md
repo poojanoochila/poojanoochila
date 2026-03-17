@@ -15,17 +15,16 @@ Familiar with tools like Wireshark and Nmap, with basic exposure to SIEM concept
 🛠️ Known Tools & Tech Stack
 
 Cybersecurity & SOC Tools:
+- Wireshark • Nmap • Metasploit • Burp Suite • OWASP ZAP • Snort • Zeek • OSINT Tools • Kali Linux
 
-  Wireshark • Nmap • Metasploit • Burp Suite • OWASP ZAP • Snort • Zeek • OSINT Tools • Kali Linux
-
-Programming & Automation:\n
-Python • Bash/Shell Scripting • SQL • Git • Docker • WSL2
+Programming & Automation:
+- Python • Bash/Shell Scripting • SQL • Git • Docker • WSL2
 
 AI/ML for Security & Data Analysis:
-Pandas • NumPy • TensorFlow • Keras • Scikit-Learn • Matplotlib • Seaborn
+- Pandas • NumPy • TensorFlow • Keras • Scikit-Learn • Matplotlib • Seaborn
 
 Cloud & Virtualization:
-AWS • VirtualBox
+- AWS • VirtualBox
 
 ---
 
