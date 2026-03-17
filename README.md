@@ -49,5 +49,5 @@ To start my career as a **SOC Analyst** and grow into a **Digital Forensics Spec
 
 ## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/pooja-noochila
-- Email: noochilapooja@gmail.com
+
 
