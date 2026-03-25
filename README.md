@@ -45,8 +45,3 @@ Familiar with tools like Metasploit, Wireshark and Nmap, with basic exposure to 
 - SOC Operations  
 - Threat Monitoring  
 - Digital Forensics  
-
----
-
-## 📌 Goal
-To start my career as a **SOC Analyst** and grow into a **Digital Forensics Specialist**
