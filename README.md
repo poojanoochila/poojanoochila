@@ -8,7 +8,7 @@
 ## 🚀 About Me
 Cybersecurity-focused student with strong foundations in network security and SOC fundamentals. Hands-on experience analyzing network traffic with a solid understanding of TCP/IP, DNS, and HTTP/HTTPS.
 
-Familiar with tools like Metasploit, Wireshark and Nmap, with basic exposure to SIEM concepts for log analysis. Comfortable working in Linux environments and analyzing logs to identify suspicious patterns.
+Familiar with tools like Metasploit, Wireshark and Nmap, with basic exposure to SIEM concepts for log analysis. Comfortable working in Linux and Windows environments and analyzing logs to identify suspicious patterns.
 
 ---
 
