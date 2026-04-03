@@ -21,7 +21,7 @@ Familiar with tools like Metasploit, Wireshark and Nmap, with basic exposure to 
 - Python • Bash/Shell Scripting • SQL • Git • Docker • WSL2
 
 #### AI/ML for Security & Data Analysis:
-- Pandas • NumPy • TensorFlow • Keras • Scikit-Learn • Matplotlib • Seaborn
+- Pandas • NumPy • TensorFlow • Scikit-Learn • Matplotlib • Seaborn
 
 #### Cloud & Virtualization:
 - AWS • VirtualBox
