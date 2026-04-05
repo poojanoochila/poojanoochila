@@ -1,7 +1,7 @@
 # Pooja Noochila 
 
-🎓 MCA Final Year Student  
-🔐 Cybersecurity Enthusiast | Aspiring SOC Analyst  
+MCA Final Year Student  
+Cybersecurity Enthusiast | Aspiring SOC Analyst  
 
 ---
 
