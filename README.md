@@ -43,5 +43,4 @@ Familiar with tools like Metasploit, Wireshark and Nmap, with basic exposure to 
 
 ## 🎯 Current Focus
 - SOC Operations  
-- Threat Monitoring  
-- Digital Forensics  
+- Threat Monitoring   
