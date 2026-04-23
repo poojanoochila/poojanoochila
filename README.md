@@ -15,7 +15,7 @@ Familiar with tools like Metasploit, Wireshark and Nmap, with basic exposure to 
 ## 🛠️ Known Tools & Tech Stack
 
 #### Cybersecurity & SOC Tools:
-- Wireshark • Nmap • Metasploit • Burp Suite • OWASP ZAP • Snort • Zeek • OSINT Tools • Kali Linux
+- Wireshark • Nmap • Metasploit • Burp Suite • OWASP ZAP • Snort • Zeek • OSINT Tools • Kali Linux • SIEM
 
 #### Programming & Automation:
 - Python • Bash/Shell Scripting • SQL • Git • Docker • WSL2
