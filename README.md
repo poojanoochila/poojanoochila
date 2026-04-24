@@ -18,7 +18,7 @@ Familiar with tools like Metasploit, Wireshark, and Nmap, with basic exposure to
 - Wireshark • Nmap • Metasploit • Burp Suite • OWASP ZAP • Snort • Zeek • OSINT Tools • Kali Linux • SIEM
 
 #### Programming & Automation:
-- Python • Bash/Shell Scripting • SQL • Git • Docker • WSL2
+- Python • Bash/Shell Scripting • SQL • Git • Docker 
 
 #### AI/ML for Security & Data Analysis:
 - Pandas • NumPy • TensorFlow • Scikit-Learn • Matplotlib • Seaborn
