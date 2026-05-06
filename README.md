@@ -83,7 +83,7 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 ## 🧪 Cybersecurity Practice
 
-* TryHackMe: (Add your profile link)
+* TryHackMe: 
 * Practicing hands-on labs in:
 
   * SOC Level 1 Path
