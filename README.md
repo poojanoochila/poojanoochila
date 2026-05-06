@@ -7,9 +7,9 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 ## 🧠 About Me
 
-* MCA student at St. Philomena College (Autonomous), Puttur 
+* MCA student at St. Philomena College, Puttur (Autonomous)
 * Strong interest in **Blue Team operations and Security Monitoring**
-* Hands-on experience in **phishing analysis, endpoint security, and incident investigation**
+* Hands-on experience in **phishing analysis, anomaly detection, and security-focused development**
 * Currently building skills in **SIEM tools, log analysis, and threat detection**
 
 ---
@@ -20,7 +20,7 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 * SIEM: Splunk, Wazuh
 * Tools: Wireshark, Nmap
-* Concepts: Phishing Analysis, Log Analysis, Incident Response, Digital Forensics Basics
+* Concepts: Phishing Analysis, Log Analysis, Incident Response, Anomaly Detection, Password Security
 
 ### 💻 Programming
 
@@ -42,34 +42,34 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 * Analysed a multi-email phishing and ad-fraud campaign targeting job seekers
 * Identified Indicators of Compromise (IOCs)
-* Performed email header and link analysis
-* Created a **professional SOC-style incident report** documenting findings and mitigation steps
+* Performed email header and URL analysis
+* Created a **professional SOC-style incident report** with findings and mitigation steps
+
+---
+
+### 📊 Login Anomaly Detection System
+
+* Developed a system to detect unusual login behaviour using data analysis techniques
+* Analysed login patterns such as time, location, and frequency
+* Identified suspicious activities indicating potential account compromise
+* Demonstrates **real-world SOC use case: behavioural analysis and threat detection**
+
+---
+
+### 🔐 Password Strength Checker
+
+* Built a tool to evaluate password security based on multiple criteria
+* Implemented checks for length, complexity, and common patterns
+* Helps prevent weak credential usage and supports **secure authentication practices**
 
 ---
 
 ### 🖥️ Endpoint Security Incident (Malicious Executable Detection)
 
 * Investigated detection of a suspicious executable file flagged by Microsoft Defender
-* Analysed alert details and system impact
-* Documented response actions including containment and remediation
-* Produced structured incident documentation suitable for SOC environments
-
----
-
-### ✈️ Flight Reservation System with Dynamic Pricing
-
-* Designed using Object-Oriented Programming (Flight, Passenger, Booking, Pricing Engine)
-* Implemented database integration (SQLite/PostgreSQL)
-* Built interface using Tkinter/Flask
-* Demonstrates backend logic, system design, and real-time data handling
-
----
-
-### 💊 Online Medical Store System
-
-* Developed a full-stack application for medicine ordering
-* Implemented database management and user interaction flows
-* Focused on usability and structured data handling
+* Analysed alert details and potential system impact
+* Documented containment and remediation steps
+* Produced structured incident documentation aligned with SOC workflows
 
 ---
 
@@ -81,7 +81,22 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 ---
 
-## ⚡ Additional
+## 🧪 Cybersecurity Practice
 
-* Actively practicing cybersecurity labs and challenges
-* Building practical SOC-level investigation skills
+* TryHackMe: (Add your profile link)
+* Practicing hands-on labs in:
+
+  * SOC Level 1 Path
+  * Threat Detection
+  * Log Analysis
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (Add your profile link)
+* Email: (Add your email)
+
+---
+
+⭐ *This profile is continuously evolving as I build real-world SOC analysis skills.*
