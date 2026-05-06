@@ -90,6 +90,3 @@ Focused on Threat Detection, SIEM, and Incident Response
   * Threat Detection
   * Log Analysis
 
----
-
-⭐ *This profile is continuously evolving as I build real-world SOC analysis skills.*
