@@ -92,11 +92,4 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 ---
 
-## 📫 Connect With Me
-
-* LinkedIn: (Add your profile link)
-* Email: (Add your email)
-
----
-
 ⭐ *This profile is continuously evolving as I build real-world SOC analysis skills.*
