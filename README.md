@@ -81,24 +81,7 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 ---
 
-## 📊 GitHub Stats
-
-*(Optional: Add GitHub stats badges here using GitHub ReadMe Stats tools)*
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: (Add your profile link)
-* Email: (Add your email)
-
----
-
 ## ⚡ Additional
 
 * Actively practicing cybersecurity labs and challenges
 * Building practical SOC-level investigation skills
-
----
-
-⭐ *This profile is continuously evolving as I grow in cybersecurity and SOC analysis.*
