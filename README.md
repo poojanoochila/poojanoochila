@@ -14,6 +14,9 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 ---
 
+## 🔗 Cybersecurity Profiles
+- TryHackMe: https://tryhackme.com/p/yourusername
+
 ## 🛠️ Technical Skills
 
 ### 🔐 Cybersecurity
