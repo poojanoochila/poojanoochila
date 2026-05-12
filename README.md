@@ -89,9 +89,5 @@ Focused on Threat Detection, SIEM, and Incident Response
 ## 🧪 Cybersecurity Practice
 
 * TryHackMe: 
-* Practicing hands-on labs in:
-
-  * SOC Level 1 Path
-  * Threat Detection
-  * Log Analysis
+* picoCTF
 
