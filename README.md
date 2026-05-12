@@ -81,9 +81,8 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 ## 📜 Certifications
 
-* IBM – Introduction to Cybersecurity (in progress)
+* IBM – Cybersecurity Fundamentals  
 * NPTEL – Blockchain and Applications
-* Cybersecurity Fundamentals Program (Completed)
 
 ---
 
