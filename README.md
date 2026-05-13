@@ -5,7 +5,7 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 ---
 
-## 🧠 About Me
+## About Me
 
 * MCA student at St. Philomena College, Puttur (Autonomous)
 * Strong interest in **Blue Team operations and Security Monitoring**
