@@ -1,16 +1,15 @@
 # Hi, I'm Pooja 
 
 **SOC Analyst Aspirant | Cybersecurity Enthusiast**
-Focused on Threat Detection, SIEM, and Incident Response
+Focus: Threat Detection, SIEM, Incident Response, and Security Monitoring
 
 ---
 
-## About Me
-
-* MCA student at St. Philomena College, Puttur (Autonomous)
-* Strong interest in **Blue Team operations and Security Monitoring**
-* Hands-on experience in **phishing analysis, anomaly detection, and security-focused development**
-* Currently building skills in **SIEM tools, log analysis, and threat detection**
+🧠 About Me
+- MCA student at St. Philomena College, Puttur (Autonomous)
+- Strong focus on Blue Team operations and SOC workflows
+- Hands-on experience in phishing analysis, anomaly detection, and endpoint investigations
+- Actively developing expertise in SIEM tools, log correlation, and threat detection
 
 ---
 
