@@ -83,11 +83,11 @@ Focused on Threat Detection, SIEM, and Incident Response
 
 * IBM – Cybersecurity Fundamentals  
 * NPTEL – Blockchain and Applications
-
+* NPTEL – Computer Networks and Internet Protocol 
 ---
 
 ## 🧪 Cybersecurity Practice
 
-* TryHackMe: 
+* TryHackMe 
 * picoCTF
 
