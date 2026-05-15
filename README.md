@@ -5,7 +5,7 @@
 
 ---
 
-🧠 About Me
+About Me
 - MCA student at St. Philomena College, Puttur (Autonomous)
 - Strong focus on Blue Team operations and SOC workflows
 - Hands-on experience in phishing analysis, anomaly detection, and endpoint investigations
