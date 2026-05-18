@@ -71,7 +71,7 @@
 
 ### 🖥️ Endpoint Security Incident (Malicious Executable Detection)
 
-* Investigated detection of a suspicious executable file flagged by Microsoft Defender
+* Investigated the detection of a suspicious executable file flagged by Microsoft Defender
 * Analysed alert details and potential system impact
 * Documented containment and remediation steps
 * Produced structured incident documentation aligned with SOC workflows
