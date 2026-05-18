@@ -1,4 +1,4 @@
-# Hi, I'm Pooja
+# Hi, I'm 
 
 **SOC Analyst Aspirant | Cybersecurity Enthusiast**
 #### Focus: Threat Detection, SIEM, Incident Response, and Security Monitoring
