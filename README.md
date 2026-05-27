@@ -24,7 +24,7 @@
 ### 🔐 Cybersecurity
 
 * SIEM: Splunk, Wazuh
-* Tools: Wireshark, Nmap
+* Tools: Wireshark, Nmap, VirusTotal, Shodan 
 * Concepts: Phishing Analysis, Log Analysis, Incident Response, Anomaly Detection, Password Security
 
 ### 💻 Programming
