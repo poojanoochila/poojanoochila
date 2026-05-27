@@ -37,7 +37,7 @@
 
 ### 🗄️ Databases
 
-* MySQL, SQLite
+* MongoDB, Redis
 
 ---
 
