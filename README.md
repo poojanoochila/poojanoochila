@@ -15,7 +15,7 @@
 
 ## 🔗 Cybersecurity Profiles
 
-- TryHackMe: https://tryhackme.com/p/noochilapooja
+- TryHackMe: https://tryhackme.com/p/pooja974
   
 ---
 
