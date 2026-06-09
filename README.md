@@ -67,6 +67,7 @@ Developed a tool that evaluates password security across multiple criteria — l
 | Cybersecurity Fundamentals | IBM |
 | Blockchain and Applications | NPTEL |
 | Computer Networks and Internet Protocol | NPTEL |
+| Introduction to Cybersecurity | NPTEL |
 
 ---
 
