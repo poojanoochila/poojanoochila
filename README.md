@@ -49,7 +49,7 @@ Built a system to flag unusual login activity by analysing patterns across time,
 ### Endpoint Security Incident — Malicious Executable Detection
 > *Endpoint investigation · Microsoft Defender · Incident documentation*
 
-Investigated a suspicious executable flagged by Microsoft Defender. Analysed alert details, assessed potential system impact, and documented containment and remediation steps in structured incident format aligned with SOC workflows.
+Investigated a suspicious executable flagged by Microsoft Defender. Analysed alert details, assessed potential system impact, and documented containment and remediation steps in a structured incident format aligned with SOC workflows.
 
 ---
 
