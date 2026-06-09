@@ -73,7 +73,7 @@ Developed a tool that evaluates password security across multiple criteria — l
 ## Practice & Profiles
 
 - **TryHackMe** → [tryhackme.com/p/pooja974](https://tryhackme.com/p/pooja974)
-- **picoCTF** — active participant
+
 
 ---
 
