@@ -1,4 +1,4 @@
-# Hello there, i am Pooja Noochila
+# Hello there, I am Pooja Noochila
 
 **SOC Analyst Aspirant · Blue Team · Threat Detection & Incident Response**
 
