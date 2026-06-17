@@ -1,16 +1,4 @@
-# Hello there, I am Pooja Noochila
 
-**SOC Analyst Aspirant · Blue Team · Threat Detection & Incident Response**
-
----
-
-## About
-
-I'm a postgraduate student (MCA) at St. Philomena College (Autonomous), Puttur, with a focused interest in Blue Team security operations. My work centers on log analysis, SIEM workflows, phishing investigation, and endpoint security — the practical, day-to-day craft of a SOC analyst.
-
-I build projects that simulate real-world SOC scenarios: from detecting login anomalies to documenting structured incident reports. I'm actively sharpening my skills through platforms like TryHackMe and picoCTF.
-
----
 
 ## Technical Skills
 
