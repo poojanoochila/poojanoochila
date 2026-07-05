@@ -151,12 +151,12 @@ Currently open to **SOC Analyst L1** and **Digital Forensics** roles and blue te
 ###  TryHackMe
 Blue team learning path focused on SOC operations, SIEM detection, and incident response. Completed rooms covering Splunk, Wazuh, Microsoft Sentinel, network analysis, and threat hunting workflows.
 
-→ | #https://github.com/poojanoochila/tryhackme-challenges |
+→ | https://github.com/poojanoochila/tryhackme-challenges |
 
 ###  CyberDefenders
 Blue team challenge platform — investigations across forensics, network traffic analysis, malware triage, and endpoint detection scenarios. Each challenge writeup includes methodology, tool usage, and key findings.
 
-→ | #https://github.com/poojanoochila/cyberdefenders-challeges |
+→ | https://github.com/poojanoochila/cyberdefenders-challeges |
 
 ---
 
