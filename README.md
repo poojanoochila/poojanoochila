@@ -182,7 +182,7 @@ Contributed to frontend development with a focus on secure coding practices: inp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poojanoochila&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=6d28d9&icon_color=a855f7&title_color=a855f7&text_color=e2e8f0&hide_border=false&rank_icon=github" width="49%"/>
+
 <img src="https://streak-stats.demolab.com/?user=poojanoochila&theme=tokyonight&background=0d0d1a&border=6d28d9&ring=a855f7&fire=7c3aed&currStreakNum=e2e8f0&currStreakLabel=a855f7&sideNums=e2e8f0&sideLabels=a855f7&dates=94a3b8" width="49%"/>
 
 </div>
