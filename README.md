@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-noochila)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noochilapooja@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/poojanoochila)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230072C6.svg?logoColor=white)](https://cyberdefenders.org)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pooja974)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-%230072C6.svg?logoColor=white)](https://cyberdefenders.org/p/pooja0707/)
 
 </div>
 
