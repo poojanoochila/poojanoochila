@@ -112,11 +112,11 @@ Currently open to **SOC Analyst L1** and **Digital Forensics** roles and blue te
 
 | Attribute | Details |
 |---|---|
-| Objective | Build a visual log analysis interface that maps parsed security events to MITRE ATT&CK techniques |
-| Stack | React (Vite + Tailwind) · Recharts · FastAPI · MITRE ATT&CK · VirusTotal API |
-| Detection Logic | Ingests structured log data, enriches IOCs using the VirusTotal API, and displays detections with ATT&CK tactic and technique annotations |
-| Security Impact | Designed to practice SPL-style querying logic and detection rule thinking outside of a full Splunk environment |
-| Repository | https://github.com/poojanoochila/soc-dashboard-siem-simulator |
+| Objective | Build a full-stack SIEM-style dashboard to ingest, analyze, and visualize security logs for SOC investigation workflows |
+| Stack | React · Python · MongoDB · VirusTotal API · MITRE ATT&CK |
+| Detection Logic | Parses and correlates security events, enriches indicators with VirusTotal reputation data, and maps findings to MITRE ATT&CK tactics and techniques |
+| Security Impact | Demonstrates practical threat detection, event enrichment, and incident analysis concepts in a simplified SIEM environment |
+| Repository | https://github.com/poojanoochila/soc-dashboard |
 
 </details>
 
