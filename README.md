@@ -183,7 +183,7 @@ Contributed to frontend development with a focus on secure coding practices: inp
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com/?user=poojanoochila&theme=tokyonight&background=0d0d1a&border=6d28d9&ring=a855f7&fire=7c3aed&currStreakNum=e2e8f0&currStreakLabel=a855f7&sideNums=e2e8f0&sideLabels=a855f7&dates=94a3b8" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=poojanoochila&theme=tokyonight&background=0d0d1a&border=6d28d9&ring=a855f7&fire=7c3aed&currStreakNum=e2e8f0&currStreakLabel=a855f7&sideNums=e2e8f0&sideLabels=a855f7&dates=94a3b8" width="49%"/> 
 
 </div>
  
